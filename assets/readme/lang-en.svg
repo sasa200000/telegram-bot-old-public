@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="46" viewBox="0 0 150 46" role="img" aria-label="Read in English">
-  <rect x="1" y="1" width="148" height="44" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
-  <text x="20" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#38bdf8">EN</text>
-  <text x="54" y="29" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#e2e8f0">English</text>
-  <path d="M128 23 l-8 -6 v12 z" fill="#38bdf8"/>
-</svg>
